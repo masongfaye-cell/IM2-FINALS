@@ -1,0 +1,17 @@
+config.local.php
+config.local.*.php
+!config.local.example.php
+
+sql/demo_data.sql
+sql/migration_from_original.sql
+scripts/send_reminders.php
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
+*.bak
+*.swp
+Thumbs.db
+.DS_Store
